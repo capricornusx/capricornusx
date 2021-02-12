@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on call center system.
 - 🌱 I’m currently learning english language, queues (RabbitMQ), KV-storage (Redis)
-- ⚡ Fun fact: I love mountains particularly and universe in general!
+- ⛰ I love mountains particularly and universe in general!
 
 ## 🔧 Technologies & Tools
 
@@ -20,17 +20,4 @@ Keybase: [@capricornusx](https://keybase.io/capricornusx)
 PGP Public Key: [DE6C 7059 046C 8650](https://keybase.io/capricornusx/pgp_keys.asc)
 
 ![Keybase XLM](https://img.shields.io/keybase/xlm/capricornusx)
-<!--
-**capricornusx/capricornusx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
