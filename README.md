@@ -1,16 +1,20 @@
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🔭 I’m currently working on call center system.
-- 🌱 I’m currently learning english language, queues (RabbitMQ), KV-storage (Redis)
+- 🌱 My EDC stack: PHP, Docker, Prometheus, Grafana, Elasticsearch+Fluentbit+Kibana, RabbitMQ, Redis...
+
 - ⛰ I love mountains particularly and universe in general!
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=linux&label=linux)
+![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=php&label=php)
+![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=gnu-bash&label=bash)
+![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=postgresql&label=postgresql)
+![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=clickhouse&label=clickhouse)
+![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=docker&label=docker)
+![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=rabbitmq&label=rabbitmq)
+![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=prometheus&label=prometheus)
 
 
 📫 How to reach me:
