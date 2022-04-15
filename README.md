@@ -1,3 +1,5 @@
+#nowar #ukraine #stopwar 🇺🇦
+
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🔭 I’m currently working on call center system.
