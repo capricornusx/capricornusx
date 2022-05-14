@@ -22,6 +22,8 @@
 📫 How to reach me:
 
 Keybase: [@capricornusx](https://keybase.io/capricornusx)
+Matrix [@capricornusx](https://matrix.to/#/@capricornusx:matrix.org)
+
 
 PGP Public Key: [DE6C 7059 046C 8650](https://keybase.io/capricornusx/pgp_keys.asc)
 
