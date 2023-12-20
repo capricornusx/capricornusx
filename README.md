@@ -3,7 +3,7 @@
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🔭 I’m currently working on call center system.
-- 🌱 My EDC stack: PHP, Docker, Prometheus, Grafana, Elasticsearch+Fluentbit+Kibana, RabbitMQ, Redis...
+- 🌱 My EDC stack: PHP (junior Go), Docker, Prometheus, Grafana, Elasticsearch+Fluentbit+Kibana, RabbitMQ, Redis...
 
 - ⛰ I love mountains particularly and universe in general!
 
@@ -11,6 +11,7 @@
 
 ![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=linux&label=linux)
 ![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=php&label=php)
+![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=go&label=go)
 ![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=gnu-bash&label=bash)
 ![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=postgresql&label=postgresql)
 ![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=clickhouse&label=clickhouse)
