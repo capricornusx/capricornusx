@@ -22,8 +22,6 @@
 
 📫 How to reach me:
 
-Keybase: [@capricornusx](https://keybase.io/capricornusx)
-
 Matrix [@capricornusx](https://matrix.to/#/@capricornusx:matrix.org)
 
 
