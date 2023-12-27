@@ -9,15 +9,15 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=linux&label=linux)
-![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=php&label=php)
-![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=go&label=go)
-![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=gnu-bash&label=bash)
-![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=postgresql&label=postgresql)
-![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=clickhouse&label=clickhouse)
-![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=docker&label=docker)
-![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=rabbitmq&label=rabbitmq)
-![](https://img.shields.io/badge/-R?style=flat-square&color=white&logo=prometheus&label=prometheus)
+![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=linux&label=linux)
+![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=php&label=php)
+![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=go&label=go)
+![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=gnu-bash&label=bash)
+![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=postgresql&label=postgresql)
+![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=clickhouse&label=clickhouse)
+![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=docker&label=docker)
+![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=rabbitmq&label=rabbitmq)
+![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=prometheus&label=prometheus)
 
 
 📫 How to reach me:
@@ -27,7 +27,5 @@ Keybase: [@capricornusx](https://keybase.io/capricornusx)
 Matrix [@capricornusx](https://matrix.to/#/@capricornusx:matrix.org)
 
 
-PGP Public Key: [DE6C 7059 046C 8650](https://keybase.io/capricornusx/pgp_keys.asc)
-
-![Keybase XLM](https://img.shields.io/keybase/xlm/capricornusx)
+[![PGP Public Key](https://img.shields.io/keybase/pgp/capricornusx?style=flat-square)](https://keybase.io/capricornusx/pgp_keys.asc)
 
