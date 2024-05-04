@@ -3,7 +3,7 @@
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🔭 I’m currently working on call center system.
-- 🌱 My EDC stack: PHP (junior Go), Docker, Prometheus, Grafana, Elasticsearch+Fluentbit+Kibana, RabbitMQ, Redis...
+- 🌱 My EDC stack: PHP (junior Go), Postgres, Docker, Prometheus, Grafana, Elasticsearch+Fluentbit+Kibana, RabbitMQ, Redis...
 
 - ⛰ I love mountains particularly and universe in general!
 
@@ -18,6 +18,9 @@
 ![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=docker&label=docker)
 ![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=rabbitmq&label=rabbitmq)
 ![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=prometheus&label=prometheus)
+
+![](https://www.codewars.com/users/capricornusx/badges/micro)
+
 
 
 📫 How to reach me:
