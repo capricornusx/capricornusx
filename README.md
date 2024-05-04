@@ -3,7 +3,7 @@
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🔭 I’m currently working on call center system.
-- 🌱 My EDC stack: PHP (junior Go), Postgres, Docker, Prometheus, Grafana, Elasticsearch+Fluentbit+Kibana, RabbitMQ, Redis...
+- 🌱 My EDC stack: PHP/Go, Postgresql, Docker, Prometheus, Grafana, Elasticsearch+Fluentbit+Kibana, RabbitMQ, Redis, Ansible...
 
 - ⛰ I love mountains particularly and universe in general!
 
@@ -19,13 +19,22 @@
 ![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=rabbitmq&label=rabbitmq)
 ![](https://img.shields.io/badge/-R?style=flat-square&color=gray&logo=prometheus&label=prometheus)
 
+
 ![](https://www.codewars.com/users/capricornusx/badges/micro)
+
+![](https://badges.peiyuan.ch/leetcode/capricornusx/name)
+![](https://badges.peiyuan.ch/leetcode/capricornusx/ranking)
 
 
 
 📫 How to reach me:
 
-Matrix [@capricornusx](https://matrix.to/#/@capricornusx:matrix.org)
+![Matrix](https://img.shields.io/matrix/senior_of_cs)
+
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfX66as_JTonHpIxS_FG8KQ)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCfX66as_JTonHpIxS_FG8KQ)
+
 
 
 [![PGP Public Key](https://img.shields.io/keybase/pgp/capricornusx?style=flat-square)](https://keybase.io/capricornusx/pgp_keys.asc)
